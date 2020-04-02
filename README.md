@@ -6,3 +6,5 @@ Make program
 share
 test
 publish
+*fitness / run
+
